@@ -1,0 +1,40 @@
+#red{
+    font-weight: normal;
+    color: red;
+}
+#blue{
+    font-weight: normal;
+    color: blue;
+}
+#orange{
+    font-weight: normal;
+    color: orange;
+}
+#green{
+    font-weight: normal;
+    color:green;
+}
+#yellow{
+    font-weight: normal;
+    color:yellow;
+}
+img[src="./assets/images/red.png"]{
+    height: 200px;
+    width: 200px;
+}
+img[src="./assets/images/blue.png"]{
+    height: 200px;
+    width: 200px;
+}
+img[src="./assets/images/orange.png"]{
+    height: 200px;
+    width: 200px;
+}
+img[src="./assets/images/green.png"]{
+    height: 200px;
+    width: 200px;
+}
+img[src="./assets/images/yellow.png"]{
+    height: 200px;
+    width: 200px;
+}
